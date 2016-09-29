@@ -1,0 +1,24 @@
+.twit-left-buttons {
+    background-color: transparent !important;
+}
+
+.navbar {
+    height: 45px;
+}
+.navbar-form{
+	margin-left: 30%;
+}
+.mainbody{
+	margin-top: 60px;
+}
+.imgur{
+	background-image: url("img/blackhole.jpg")
+	height:300px;
+}
+.optiontweet{
+	padding-left: 20px!important;
+	padding-right: 20px!important;
+}
+.tweetpanel{
+	padding-bottom: 0px!important
+}
